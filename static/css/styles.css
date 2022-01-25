@@ -1,0 +1,22 @@
+body{
+    text-align: center;
+}
+
+.buttonAdd{
+    background-color: red;
+    color: white;
+    margin: 20px;
+    width: 120px;
+}
+
+.buttonReset{
+    background-color: green;
+    color:white;
+    margin: 20px;
+    width: 120px;
+}
+
+.botones{
+    display: flex;
+    justify-content: center;
+}
